@@ -1,0 +1,959 @@
+{
+  "Electronics": [
+    {
+      "id": 9,
+      "title": "WD 2TB Elements Portable External Hard Drive - USB 3.0 ",
+      "slug": "WD-TB-Elements-Portable-External-Hard-Drive-USB-3.0 ",
+      "price": 64,
+      "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity; Compatibility Formatted NTFS for Windows 10, Windows 8.1, Windows 7; Reformatting may be required for other operating systems; Compatibility may vary depending on user’s hardware configuration and operating system",
+      "category": "electronics",
+      "sub_category": "Hard Drive",
+      "brand": "WESTERN DIGITAL",
+      "stock": 8,
+      "is_in_inventory": true,
+      "imageURL": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg"
+    },
+    {
+      "id": 10,
+      "title": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+      "slug": "SanDisk-SSD-PLUS-1TB-Internal-SSD-SATA-III-6-Gb/s",
+      "price": 109,
+      "description": "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
+      "category": "electronics",
+      "sub_category": "Hard Drive",
+      "brand": "SANDISK",
+      "stock": 10,
+      "is_in_inventory": true,
+      "imageURL": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5",
+      "slug": "Silicon-Power-256GB-SSD-3D-NAND-A55-SLC-Cache-Performance-Boost-SATA-III-2.5",
+      "price": 109,
+      "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+      "category": "electronics",
+      "sub_category": "Hard Drive",
+      "brand": "PNY",
+      "stock": 14,
+      "is_in_inventory": true,
+      "imageURL": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg"
+    },
+    {
+      "id": 12,
+      "title": "WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive",
+      "slug": "WD-4TB-Gaming-Drive-Works-with-Playstation-4-Portable-External-Hard-Drive",
+      "price": 114,
+      "description": "Expand your PS4 gaming experience, Play anywhere Fast and easy, setup Sleek design with high capacity, 3-year manufacturer's limited warranty",
+      "category": "electronics",
+      "sub_category": "Hard Drive",
+      "brand": "WESTERN DIGITAL",
+      "stock": 13,
+      "is_in_inventory": true,
+      "imageURL": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin",
+      "slug": "Acer-SB220Q-bi-21.5-inches-Full-HD-(1920 x 1080)-IPS-Ultra-Thin",
+      "price": 599,
+      "description": "21. 5 inches Full HD (1920 x 1080) widescreen IPS display And Radeon free Sync technology. No compatibility for VESA Mount Refresh Rate: 75Hz - Using HDMI port Zero-frame design | ultra-thin | 4ms response time | IPS panel Aspect ratio - 16: 9. Color Supported - 16. 7 million colors. Brightness - 250 nit Tilt angle -5 degree to 15 degree. Horizontal viewing angle-178 degree. Vertical viewing angle-178 degree 75 hertz",
+      "category": "electronics",
+      "sub_category": "Monitors",
+      "brand": "ACER",
+      "stock": 10,
+      "is_in_inventory": true,
+      "imageURL": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg"
+    },
+    {
+      "id": 14,
+      "title": "Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ",
+      "slug": "Samsung-49-Inch-CHG90-144Hz-Curved-Gaming-Monitor-(LC49HG90DMNXZA)–Super-Ultrawide-Screen-QLED ",
+      "price": 999.99,
+      "description": "49 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT (QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color and contrast 144HZ HIGH REFRESH RATE and 1ms ultra fast response time work to eliminate motion blur, ghosting, and reduce input lag",
+      "category": "electronics",
+      "sub_category": "Monitors",
+      "brand": "SAMSUNG",
+      "stock": 20,
+      "is_in_inventory": true,
+      "imageURL": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg"
+    },
+    {
+      "name": "LG Tv 42 inch",
+      "price": "21,999",
+      "real_price": "25,999",
+      "img": "http://www.lg.com/us/images/tvs/md05802269/gallery/medium01.jpg"
+    },
+    {
+      "name": "Samsung Tv 40 inch",
+      "price": "20,999",
+      "real_price": "24,999",
+      "img": "http://www.220-electronics.com/media/catalog/product/s/o/sony-kdl55hx750multi-system-tv-angle_1.png"
+    },
+    {
+      "name": "Panasonic Tv",
+      "price": "19,999",
+      "real_price": "22,999",
+      "img": "https://images-na.ssl-images-amazon.com/images/I/61Ekm1BJYbL._SX355_.jpg"
+    },
+    {
+      "name": "Sony Tv 50 inch",
+      "price": "28,999",
+      "real_price": "35,999",
+      "img": "http://www.220-electronics.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/s/o/sony-kdl55hx750multi-system-tv_1.png"
+    },
+    {
+      "name": "Sharp Tv",
+      "price": "29,999",
+      "real_price": "34,999",
+      "img": "http://blackfridaytvs.com/wp-content/uploads/2014/11/Sharp-AQUOS-60-LED-1080p-Smart-HDTV-Black-LC-60LE644U-Best-Buy-SKU-8890013.png"
+    },
+    {
+      "name": "Toshiba Tv",
+      "price": "32,999",
+      "real_price": "36,999",
+      "img": "http://www.1a20.com/wp-content/uploads/2012/11/4758734_S1E2.png"
+    },
+    {
+      "name": "Vizio Tv",
+      "price": "51,999",
+      "real_price": "79,999",
+      "img": "http://blackfridaytvs.com/wp-content/uploads/2014/11/VIZIO-50-Class-LED-1080p-240Hz-Smart-HDTV-M502I-B1-Best-Buy-SKU-7501014-300x257.png"
+    }
+  ],
+
+  "Furniture": [
+    {
+      "name": "Bean Bag",
+      "price": "2,999",
+      "real_price": "3,999",
+      "img": "http://www.coolbeanbags.in/image/cache/data/Processed%20Images/Classic%20bean%20bags/bean-bag-purple-500x500.png"
+    },
+    {
+      "name": "Sofa Set",
+      "price": "20,000",
+      "real_price": "23,999",
+      "img": "http://www.reformatapecaria.com.br/public/img/default/servicos-de-tapecaria/home/reforma-de-sofa-3-lugares.png"
+    },
+    {
+      "name": "Almirah",
+      "price": "11,500",
+      "real_price": "15,999",
+      "img": "https://img3.exportersindia.com/product_images/bc-small/dir_150/4491558/stainless-steel-almirah-1506398699-3355017.jpeg"
+    },
+    {
+      "name": "Bed",
+      "price": "45,000",
+      "real_price": "55,999",
+      "img": "http://pngimg.com/uploads/bed/bed_PNG17401.png"
+    },
+    {
+      "name": "Office Chair",
+      "price": "6,999",
+      "real_price": "15,999",
+      "img": "http://www.freepngimg.com/thumb/chair/4-office-chair-png-image-thumb.png"
+    },
+    {
+      "name": "Dining Table",
+      "price": "16,999",
+      "real_price": "25,999",
+      "img": "http://lisa-grahner.com/wp-content/uploads/2016/03/zio-table-oak.png"
+    }
+  ],
+
+  "Home Appliance": [
+    {
+      "name": "Iron",
+      "price": "1,999",
+      "real_price": "5,999",
+      "img": "http://pngimg.com/uploads/iron/iron_PNG15563.png"
+    },
+    {
+      "name": "Mixer Juicer",
+      "price": "8,999",
+      "real_price": "15,999",
+      "img": "https://images.philips.com/is/image/PhilipsConsumer/HL7715_00-IMS-en_IN?wid=494&hei=435&$pnglarge$"
+    },
+    {
+      "name": "Food Processor",
+      "price": "4,999",
+      "real_price": "5,999",
+      "img": "http://www.220-electronics.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/b/l/black-decker-fx810-220-volt-food-processor.png"
+    },
+    {
+      "name": "Microwave",
+      "price": "10,000",
+      "real_price": "11,999",
+      "img": "http://www.pngpix.com/wp-content/uploads/2016/04/Black-Microwave-Oven-PNG-image.png"
+    },
+    {
+      "name": "Sandwich Maker",
+      "price": "1800",
+      "real_price": "2,999",
+      "img": "http://www.pngpix.com/wp-content/uploads/2016/04/Sandwich-Maker-and-Grill-PNG-image-500x453.png"
+    },
+    {
+      "name": "Air Fryer",
+      "price": "5,500",
+      "real_price": "5,999",
+      "img": "https://i.ebayimg.com/images/g/2qYAAOSwpvZaAvVD/s-l300.jpg"
+    },
+    {
+      "name": "Playstation",
+      "price": "36,000",
+      "real_price": "40,999",
+      "img": "https://www.loveroms.com/assets/img/consoles/logos/playstation.png"
+    }
+  ],
+  "fashion": [
+    {
+      "id": 1,
+      "title": "Fjallraven  Fold sack No. 1 Backpack, Fits 15 Laptops",
+      "slug": "Fjallraven-Foldsack-No.-1-Backpack-Fits-15-Laptops",
+      "price": 109.95,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "men clothing",
+      "sub_category": "Backpacks",
+      "brand": "NORTH STAR",
+      "stock": 10,
+      "is_in_inventory": true,
+      "imageURL": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Mens Casual Premium Slim Fit T-Shirts ",
+      "slug": "Mens-Casual-Premium-Slim-Fit-T-Shirts ",
+      "price": 22.3,
+      "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+      "brand": "AMERICAN APPAREL",
+      "category": "men clothing",
+      "sub_category": "T-Shirts",
+      "stock": 7,
+      "is_in_inventory": true,
+      "imageURL": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Mens Cotton Jacket",
+      "slug": "Mens-Cotton-Jacket",
+      "price": 55.99,
+      "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+      "category": "men clothing",
+      "sub_category": "Jackets",
+      "brand": "STANLEY STELLA",
+      "stock": 11,
+      "is_in_inventory": true,
+      "imageURL": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Mens Casual Slim Fit",
+      "slug": "Mens-Casual-Slim-Fit",
+      "price": 15.99,
+      "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+      "category": "men clothing",
+      "sub_category": "Casual",
+      "brand": "JACK & JONES",
+      "stock": 9,
+      "is_in_inventory": false,
+      "imageURL": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg"
+    },
+
+    {
+      "id": 15,
+      "title": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
+      "slug": "BIYLACLESEN-Women's-3-in-1-Snowboard-Jacket-Winter-Coats",
+      "price": 56.99,
+      "description": "Note:The Jackets is US standard size, Please choose size as your usual wear Material: 100% Polyester; Detachable Liner Fabric: Warm Fleece. Detachable Functional Liner: Skin Friendly, Lightweigt and Warm.Stand Collar Liner jacket, keep you warm in cold weather. Zippered Pockets: 2 Zippered Hand Pockets, 2 Zippered Pockets on Chest (enough to keep cards or keys)and 1 Hidden Pocket Inside.Zippered Hand Pockets and Hidden Pocket keep your things secure. Humanized Design: Adjustable and Detachable Hood and Adjustable cuff to prevent the wind and water,for a comfortable fit. 3 in 1 Detachable Design provide more convenience, you can separate the coat and inner as needed, or wear it together. It is suitable for different season and help you adapt to different climates",
+      "category": "women clothing",
+      "sub_category": "Jackets",
+      "brand": "BIYLACLESEN",
+      "stock": 10,
+      "is_in_inventory": true,
+      "imageURL": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg"
+    },
+    {
+      "id": 16,
+      "title": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
+      "slug": "Lock-and-Love-Women's-Removable-Hooded-Faux-Leather-Moto-Biker-Jacket",
+      "price": 29.95,
+      "description": "100% POLYURETHANE(shell) 100% POLYESTER(lining) 75% POLYESTER 25% COTTON (SWEATER), Faux leather material for style and comfort / 2 pockets of front, 2-For-One Hooded denim style faux leather jacket, Button detail on waist / Detail stitching at sides, HAND WASH ONLY / DO NOT BLEACH / LINE DRY / DO NOT IRON",
+      "category": "women clothing",
+      "sub_category": "Jackets",
+      "brand": "LOCK AND LOVE",
+      "stock": 10,
+      "is_in_inventory": true,
+      "imageURL": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg"
+    },
+    {
+      "id": 17,
+      "title": "Rain Jacket Women Windbreaker Striped Climbing Raincoats",
+      "slug": "Rain-Jacket-Women-Windbreaker-Striped-Climbing-Raincoats",
+      "price": 39.99,
+      "description": "Lightweight perfet for trip or casual wear---Long sleeve with hooded, adjustable drawstring waist design. Button and zipper front closure raincoat, fully stripes Lined and The Raincoat has 2 side pockets are a good size to hold all kinds of things, it covers the hips, and the hood is generous but doesn't overdo it.Attached Cotton Lined Hood with Adjustable Drawstrings give it a real styled look.",
+      "category": "women clothing",
+      "sub_category": "Raincoats",
+      "brand": "THE NORTH FACE",
+      "stock": 10,
+      "is_in_inventory": true,
+      "imageURL": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg"
+    },
+    {
+      "id": 18,
+      "title": "MBJ Women's Solid Short Sleeve Boat Neck V ",
+      "slug": "MBJ-Women's-Solid-Short-Sleeve-Boat-Neck-V ",
+      "price": 9.85,
+      "description": "95% RAYON 5% SPANDEX, Made in USA or Imported, Do Not Bleach, Lightweight fabric with great stretch for comfort, Ribbed on sleeves and neckline / Double stitching on bottom hem",
+      "category": "women clothing",
+      "sub_category": " Boat Neck",
+      "brand": "MBJ",
+      "stock": 10,
+      "is_in_inventory": true,
+      "imageURL": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg"
+    },
+    {
+      "id": 19,
+      "title": "Opna Women's Short Sleeve Moisture",
+      "slug": "Opna-Women's-Short-Sleeve-Moisture",
+      "price": 7.95,
+      "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
+      "category": "women clothing",
+      "sub_category": " Short Sleeve",
+      "brand": "OPNA",
+      "stock": 10,
+      "is_in_inventory": true,
+      "imageURL": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg"
+    },
+    {
+      "id": 20,
+      "title": "DANVOUY Womens T-Shirt Casual Cotton Short",
+      "slug": "DANVOUY-Womens-T-Shirt-Casual-Cotton-Short",
+      "price": 12.99,
+      "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
+      "category": "women clothing",
+      "sub_category": "T-Shirts",
+      "brand": "TREBIN",
+      "stock": 10,
+      "is_in_inventory": true,
+      "imageURL": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg"
+    },
+
+    {
+      "id": 21,
+      "title": "Nike React Infinity Run Fly knit",
+      "brand": "NIKE",
+      "category": "MEN",
+      "sub_category": "RUNNING",
+      "price": 160,
+      "is_in_inventory": true,
+      "stock": 3,
+      "imageURL": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/i1-665455a5-45de-40fb-945f-c1852b82400d/react-infinity-run-flyknit-mens-running-shoe-zX42Nc.jpg",
+      "slug": "nike-react-infinity-run-fly-knit",
+      "description": "Pretty in pleats! Our Pleats Be With You closed-toe pumps are accented with a pleat and buckle detail over the toe. A soft rounded toe and a small heel complete these slip-on pumps. The memory foam footbed on the interior provides the cushioned comfort you need for long days on your feet."
+    },
+    {
+      "id": 22,
+      "title": "Nike React Miler",
+      "brand": "NIKE",
+      "category": "MEN",
+      "sub_category": "RUNNING",
+      "price": 130,
+      "is_in_inventory": true,
+      "stock": 3,
+      "imageURL": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/i1-5cc7de3b-2afc-49c2-a1e4-0508997d09e6/react-miler-mens-running-shoe-DgF6nr.jpg",
+      "slug": "nike-react-miler",
+      "description": "Pretty in pleats! Our Pleats Be With You closed-toe pumps are accented with a pleat and buckle detail over the toe. A soft rounded toe and a small heel complete these slip-on pumps. The memory foam footbed on the interior provides the cushioned comfort you need for long days on your feet."
+    },
+    {
+      "id": 23,
+      "title": "Nike Air Zoom Pegasus 37",
+      "brand": "NIKE",
+      "category": "WOMEN",
+      "sub_category": "RUNNING",
+      "price": 120,
+      "is_in_inventory": true,
+      "stock": 3,
+      "imageURL": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/i1-33b0a0a5-c171-46cc-ad20-04a768703e47/air-zoom-pegasus-37-womens-running-shoe-Jl0bDf.jpg",
+      "slug": "nike-air-zoom-pegasus-37",
+      "description": "Pretty in pleats! Our Pleats Be With You closed-toe pumps are accented with a pleat and buckle detail over the toe. A soft rounded toe and a small heel complete these slip-on pumps. The memory foam footbed on the interior provides the cushioned comfort you need for long days on your feet."
+    },
+    {
+      "id": 24,
+      "title": "Nike Joyride Run Fly knit",
+      "brand": "NIKE",
+      "category": "WOMEN",
+      "sub_category": "RUNNING",
+      "price": 180,
+      "is_in_inventory": true,
+      "stock": 3,
+      "imageURL": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/99a7d3cb-e40c-4474-91c2-0f2e6d231fd2/joyride-run-flyknit-womens-running-shoe-HcfnJd.jpg",
+      "slug": "nike-joyride-run-fly-knit",
+      "description": "Pretty in pleats! Our Pleats Be With You closed-toe pumps are accented with a pleat and buckle detail over the toe. A soft rounded toe and a small heel complete these slip-on pumps. The memory foam footbed on the interior provides the cushioned comfort you need for long days on your feet."
+    },
+    {
+      "id": 25,
+      "title": "Nike Mercurial Vapor 13 Elite FG",
+      "brand": "NIKE",
+      "category": "WOMEN",
+      "sub_category": "FOOTBALL",
+      "price": 250,
+      "is_in_inventory": true,
+      "stock": 3,
+      "imageURL": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/9dda6202-e2ff-4711-9a09-0fcb7d90c164/mercurial-vapor-13-elite-fg-firm-ground-soccer-cleat-14MsF2.jpg",
+      "slug": "nike-mercurial-vapor-13-elite-fg",
+      "description": "Pretty in pleats! Our Pleats Be With You closed-toe pumps are accented with a pleat and buckle detail over the toe. A soft rounded toe and a small heel complete these slip-on pumps. The memory foam footbed on the interior provides the cushioned comfort you need for long days on your feet."
+    },
+    {
+      "id": 26,
+      "title": "Nike Phantom Vision Elite Dynamic Fit FG",
+      "brand": "NIKE",
+      "category": "WOMEN",
+      "sub_category": "FOOTBALL",
+      "price": 150,
+      "is_in_inventory": true,
+      "stock": 3,
+      "imageURL": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/s1amp7uosrn0nqpsxeue/phantom-vision-elite-dynamic-fit-fg-firm-ground-soccer-cleat-19Kv1V.jpg",
+      "slug": "nike-phantom-vision-elite-dynamic-fit-fg",
+      "description": "Pretty in pleats! Our Pleats Be With You closed-toe pumps are accented with a pleat and buckle detail over the toe. A soft rounded toe and a small heel complete these slip-on pumps. The memory foam footbed on the interior provides the cushioned comfort you need for long days on your feet."
+    },
+    {
+      "id": 27,
+      "title": "Nike Phantom Venom Academy FG",
+      "brand": "NIKE",
+      "category": "WOMEN",
+      "sub_category": "FOOTBALL",
+      "price": 80,
+      "is_in_inventory": true,
+      "stock": 3,
+      "imageURL": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/whegph8z9ornhxklc8rp/phantom-venom-academy-fg-firm-ground-soccer-cleat-6JVNll.jpg",
+      "slug": "nike-phantom-venom-academy-fg",
+      "description": "Pretty in pleats! Our Pleats Be With You closed-toe pumps are accented with a pleat and buckle detail over the toe. A soft rounded toe and a small heel complete these slip-on pumps. The memory foam footbed on the interior provides the cushioned comfort you need for long days on your feet."
+    },
+    {
+      "id": 28,
+      "title": "Nike Mercurial Vapor 13 Elite Tech Craft FG",
+      "brand": "NIKE",
+      "category": "MEN",
+      "sub_category": "FOOTBALL",
+      "price": 145,
+      "is_in_inventory": true,
+      "stock": 3,
+      "imageURL": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/vhbwnkor8sxt8qtecgia/mercurial-vapor-13-elite-tech-craft-fg-firm-ground-soccer-cleat-l38JPj.jpg",
+      "slug": "nike-mercurial-vapor-13-elite-tech-craft-fg",
+      "description": "Pretty in pleats! Our Pleats Be With You closed-toe pumps are accented with a pleat and buckle detail over the toe. A soft rounded toe and a small heel complete these slip-on pumps. The memory foam footbed on the interior provides the cushioned comfort you need for long days on your feet."
+    },
+    {
+      "id": 29,
+      "title": "Nike Mercurial Super fly 7 Pro MDS FG",
+      "brand": "NIKE",
+      "category": "MEN",
+      "sub_category": "FOOTBALL",
+      "price": 137,
+      "is_in_inventory": true,
+      "stock": 3,
+      "imageURL": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/i1-a52a8aec-22dc-4982-961b-75c5f4c72805/mercurial-superfly-7-pro-mds-fg-firm-ground-soccer-cleat-mhcpdN.jpg",
+      "slug": "nike-mercurial-super-fly-7-pro-mds-fg",
+      "description": "Pretty in pleats! Our Pleats Be With You closed-toe pumps are accented with a pleat and buckle detail over the toe. A soft rounded toe and a small heel complete these slip-on pumps. The memory foam footbed on the interior provides the cushioned comfort you need for long days on your feet."
+    },
+    {
+      "id": 30,
+      "title": "Nike Air Force 1",
+      "brand": "NIKE",
+      "category": "KIDS",
+      "sub_category": "CASUAL",
+      "price": 90,
+      "is_in_inventory": true,
+      "stock": 3,
+      "imageURL": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/178b2a46-3ee4-492b-882e-f71efdd53a36/air-force-1-big-kids-shoe-2zqp8D.jpg",
+      "slug": "nike-air-force-1",
+      "description": "Pretty in pleats! Our Pleats Be With You closed-toe pumps are accented with a pleat and buckle detail over the toe. A soft rounded toe and a small heel complete these slip-on pumps. The memory foam footbed on the interior provides the cushioned comfort you need for long days on your feet."
+    },
+    {
+      "id": 31,
+      "title": "Nike Air Max 90",
+      "brand": "NIKE",
+      "category": "KIDS",
+      "sub_category": "CASUAL",
+      "price": 100,
+      "is_in_inventory": true,
+      "stock": 3,
+      "imageURL": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/8439f823-86cf-4086-81d2-4f9ff9a66866/air-max-90-big-kids-shoe-1wzwJM.jpg",
+      "slug": "nike-air-max-90",
+      "description": "Pretty in pleats! Our Pleats Be With You closed-toe pumps are accented with a pleat and buckle detail over the toe. A soft rounded toe and a small heel complete these slip-on pumps. The memory foam footbed on the interior provides the cushioned comfort you need for long days on your feet."
+    },
+    {
+      "id": 32,
+      "title": "Nike Air Max 90 LTR",
+      "brand": "NIKE",
+      "category": "KIDS",
+      "sub_category": "CASUAL",
+      "price": 110,
+      "is_in_inventory": true,
+      "stock": 3,
+      "imageURL": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/i1-620aeb37-1b28-44b0-9b14-5572f8cbc948/air-max-90-ltr-big-kids-shoe-hdNLQ5.jpg",
+      "slug": "nike-air-max-90-ltr",
+      "description": "Pretty in pleats! Our Pleats Be With You closed-toe pumps are accented with a pleat and buckle detail over the toe. A soft rounded toe and a small heel complete these slip-on pumps. The memory foam footbed on the interior provides the cushioned comfort you need for long days on your feet."
+    },
+    {
+      "id": 33,
+      "title": "Nike Joyride Dual Run",
+      "brand": "NIKE",
+      "category": "KIDS",
+      "sub_category": "RUNNING",
+      "price": 110,
+      "is_in_inventory": false,
+      "stock": 3,
+      "imageURL": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/33888130-0320-41a1-ba53-a026decd8aa2/joyride-dual-run-big-kids-running-shoe-1HDJF8.jpg",
+      "slug": "nike-joyride-dual-run",
+      "description": "Pretty in pleats! Our Pleats Be With You closed-toe pumps are accented with a pleat and buckle detail over the toe. A soft rounded toe and a small heel complete these slip-on pumps. The memory foam footbed on the interior provides the cushioned comfort you need for long days on your feet."
+    },
+    {
+      "id": 34,
+      "title": "Nike Renew Run",
+      "brand": "NIKE",
+      "category": "KIDS",
+      "sub_category": "RUNNING",
+      "price": 80,
+      "is_in_inventory": true,
+      "stock": 3,
+      "imageURL": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/i1-73e54c0b-11a6-478b-9f90-bd97fcde872d/renew-run-big-kids-running-shoe-5Bpz93.jpg",
+      "slug": "nike-renew-run",
+      "description": "Pretty in pleats! Our Pleats Be With You closed-toe pumps are accented with a pleat and buckle detail over the toe. A soft rounded toe and a small heel complete these slip-on pumps. The memory foam footbed on the interior provides the cushioned comfort you need for long days on your feet."
+    },
+    {
+      "id": 35,
+      "title": "Bridgeport Advice",
+      "brand": "HUSH PUPPIES",
+      "category": "MEN",
+      "sub_category": "FORMAL",
+      "price": 30,
+      "is_in_inventory": true,
+      "stock": 4,
+      "imageURL": "https://cdn.shopify.com/s/files/1/0016/0074/9623/products/BRIDGPORT_ADVICE-BLACK_1_800x800.jpg?v=1576567903",
+      "slug": "bridgeport-advice",
+      "description": "Pretty in pleats! Our Pleats Be With You closed-toe pumps are accented with a pleat and buckle detail over the toe. A soft rounded toe and a small heel complete these slip-on pumps. The memory foam footbed on the interior provides the cushioned comfort you need for long days on your feet."
+    },
+    {
+      "id": 36,
+      "title": "Beck",
+      "brand": "HUSH PUPPIES",
+      "category": "MEN",
+      "sub_category": "FORMAL",
+      "price": 80,
+      "is_in_inventory": true,
+      "stock": 5,
+      "imageURL": "https://cdn.shopify.com/s/files/1/0016/0074/9623/products/Beck-Black_800x800.jpg",
+      "slug": "beck",
+      "description": "Pretty in pleats! Our Pleats Be With You closed-toe pumps are accented with a pleat and buckle detail over the toe. A soft rounded toe and a small heel complete these slip-on pumps. The memory foam footbed on the interior provides the cushioned comfort you need for long days on your feet."
+    },
+    {
+      "id": 37,
+      "title": "Fester",
+      "brand": "HUSH PUPPIES",
+      "category": "MEN",
+      "sub_category": "FORMAL",
+      "price": 70,
+      "is_in_inventory": true,
+      "stock": 6,
+      "imageURL": "https://cdn.shopify.com/s/files/1/0016/0074/9623/products/fester-Tan_800x800.jpg?v=1575537531",
+      "slug": "fester",
+      "description": "Pretty in pleats! Our Pleats Be With You closed-toe pumps are accented with a pleat and buckle detail over the toe. A soft rounded toe and a small heel complete these slip-on pumps. The memory foam footbed on the interior provides the cushioned comfort you need for long days on your feet."
+    },
+    {
+      "id": 38,
+      "title": "Pixel",
+      "brand": "HUSH PUPPIES",
+      "category": "MEN",
+      "sub_category": "FORMAL",
+      "price": 75,
+      "is_in_inventory": true,
+      "stock": 7,
+      "imageURL": "https://cdn.shopify.com/s/files/1/0016/0074/9623/products/PIXEL-TAN_800x800.jpg?v=1577420506",
+      "slug": "pixel",
+      "description": "Pretty in pleats! Our Pleats Be With You closed-toe pumps are accented with a pleat and buckle detail over the toe. A soft rounded toe and a small heel complete these slip-on pumps. The memory foam footbed on the interior provides the cushioned comfort you need for long days on your feet."
+    },
+    {
+      "id": 39,
+      "title": "Austin",
+      "brand": "HUSH PUPPIES",
+      "category": "MEN",
+      "sub_category": "FORMAL",
+      "price": 75,
+      "is_in_inventory": true,
+      "stock": 2,
+      "imageURL": "https://cdn.shopify.com/s/files/1/0016/0074/9623/products/Austin-Coffee_800x800.jpg?v=1574772988",
+      "slug": "austin",
+      "description": "Pretty in pleats! Our Pleats Be With You closed-toe pumps are accented with a pleat and buckle detail over the toe. A soft rounded toe and a small heel complete these slip-on pumps. The memory foam footbed on the interior provides the cushioned comfort you need for long days on your feet."
+    },
+    {
+      "id": 40,
+      "title": "SS-HL-0135",
+      "brand": "HUSH PUPPIES",
+      "category": "WOMEN",
+      "sub_category": "FORMAL",
+      "price": 30,
+      "is_in_inventory": true,
+      "stock": 6,
+      "imageURL": "https://cdn.shopify.com/s/files/1/0016/0074/9623/products/009240000-11-SS-HL-0135-Black_800x800.jpg?v=1572264270",
+      "slug": "ss-hl-0135",
+      "description": "Pretty in pleats! Our Pleats Be With You closed-toe pumps are accented with a pleat and buckle detail over the toe. A soft rounded toe and a small heel complete these slip-on pumps. The memory foam footbed on the interior provides the cushioned comfort you need for long days on your feet."
+    },
+    {
+      "id": 41,
+      "title": "SS-HL-0136",
+      "brand": "HUSH PUPPIES",
+      "category": "WOMEN",
+      "sub_category": "FORMAL",
+      "price": 50,
+      "is_in_inventory": true,
+      "stock": 4,
+      "imageURL": "https://cdn.shopify.com/s/files/1/0016/0074/9623/products/009250000-779-SS-HL-0136-Coffee_800x800.jpg?v=1571900372",
+      "slug": "ss-hl-0136",
+      "description": "Pretty in pleats! Our Pleats Be With You closed-toe pumps are accented with a pleat and buckle detail over the toe. A soft rounded toe and a small heel complete these slip-on pumps. The memory foam footbed on the interior provides the cushioned comfort you need for long days on your feet."
+    },
+    {
+      "id": 42,
+      "title": "SS-HL-0128",
+      "brand": "HUSH PUPPIES",
+      "category": "WOMEN",
+      "sub_category": "FORMAL",
+      "price": 35,
+      "is_in_inventory": true,
+      "stock": 3,
+      "imageURL": "https://cdn.shopify.com/s/files/1/0016/0074/9623/products/000300242-484-SS-HL-0128-Blue_800x800.jpg?v=1583235174",
+      "slug": "ss-hl-0128",
+      "description": "Pretty in pleats! Our Pleats Be With You closed-toe pumps are accented with a pleat and buckle detail over the toe. A soft rounded toe and a small heel complete these slip-on pumps. The memory foam footbed on the interior provides the cushioned comfort you need for long days on your feet."
+    },
+    {
+      "id": 43,
+      "title": "SS-MS-0075",
+      "brand": "HUSH PUPPIES",
+      "category": "WOMEN",
+      "sub_category": "CASUAL",
+      "price": 25,
+      "is_in_inventory": true,
+      "stock": 7,
+      "imageURL": "https://cdn.shopify.com/s/files/1/0016/0074/9623/products/009170000-479-SS-MS-0075-Red_800x800.jpg?v=1570688687",
+      "slug": "ss-ms-0075",
+      "description": "Pretty in pleats! Our Pleats Be With You closed-toe pumps are accented with a pleat and buckle detail over the toe. A soft rounded toe and a small heel complete these slip-on pumps. The memory foam footbed on the interior provides the cushioned comfort you need for long days on your feet."
+    },
+    {
+      "id": 44,
+      "title": "SS-PM-0093",
+      "brand": "HUSH PUPPIES",
+      "category": "WOMEN",
+      "sub_category": "CASUAL",
+      "price": 30,
+      "is_in_inventory": true,
+      "stock": 3,
+      "imageURL": "https://cdn.shopify.com/s/files/1/0016/0074/9623/products/SS-PM-0093_1_800x800.jpg?v=1570601253",
+      "slug": "ss-pm-0093",
+      "description": "Pretty in pleats! Our Pleats Be With You closed-toe pumps are accented with a pleat and buckle detail over the toe. A soft rounded toe and a small heel complete these slip-on pumps. The memory foam footbed on the interior provides the cushioned comfort you need for long days on your feet."
+    },
+    {
+      "id": 45,
+      "title": "Nizza X Disney",
+      "brand": "ADIDAS",
+      "category": "KIDS",
+      "sub_category": "CASUAL",
+      "price": 55,
+      "is_in_inventory": true,
+      "stock": 6,
+      "imageURL": "https://assets.adidas.com/images/h_320,f_auto,q_auto:sensitive,fl_lossy/ef901c7aeac042578eceab9d0159196c_9366/Nizza_x_Disney_Sport_Goofy_Shoes_White_FW0651_01_standard.jpg",
+      "slug": "nizza-x-disney",
+      "description": "Pretty in pleats! Our Pleats Be With You closed-toe pumps are accented with a pleat and buckle detail over the toe. A soft rounded toe and a small heel complete these slip-on pumps. The memory foam footbed on the interior provides the cushioned comfort you need for long days on your feet."
+    },
+    {
+      "id": 46,
+      "title": "X_PLR",
+      "brand": "ADIDAS",
+      "category": "KIDS",
+      "sub_category": "CASUAL",
+      "price": 65,
+      "is_in_inventory": true,
+      "stock": 5,
+      "imageURL": "https://assets.adidas.com/images/h_320,f_auto,q_auto:sensitive,fl_lossy/a36518227134495da766ab9d01772fa2_9366/X_PLR_Shoes_Red_FY9063_01_standard.jpg",
+      "slug": "x_plr",
+      "description": "Pretty in pleats! Our Pleats Be With You closed-toe pumps are accented with a pleat and buckle detail over the toe. A soft rounded toe and a small heel complete these slip-on pumps. The memory foam footbed on the interior provides the cushioned comfort you need for long days on your feet."
+    },
+    {
+      "id": 47,
+      "title": "Stan Smith",
+      "brand": "ADIDAS",
+      "category": "KIDS",
+      "sub_category": "CASUAL",
+      "price": 55,
+      "is_in_inventory": true,
+      "stock": 3,
+      "imageURL": "https://assets.adidas.com/images/h_320,f_auto,q_auto:sensitive,fl_lossy/d0720712d81e42b1b30fa80800826447_9366/Stan_Smith_Shoes_White_M20607_M20607_01_standard.jpg",
+      "slug": "stan-smith",
+      "description": "Pretty in pleats! Our Pleats Be With You closed-toe pumps are accented with a pleat and buckle detail over the toe. A soft rounded toe and a small heel complete these slip-on pumps. The memory foam footbed on the interior provides the cushioned comfort you need for long days on your feet."
+    },
+    {
+      "id": 48,
+      "title": "NMD_R1",
+      "brand": "ADIDAS",
+      "category": "KIDS",
+      "sub_category": "RUNNING",
+      "price": 120,
+      "is_in_inventory": true,
+      "stock": 3,
+      "imageURL": "https://assets.adidas.com/images/h_320,f_auto,q_auto:sensitive,fl_lossy/99ca762cb9054caf82fbabc500fd146e_9366/NMD_R1_Shoes_Blue_FY9392_01_standard.jpg",
+      "slug": "nmd_r1",
+      "description": "Pretty in pleats! Our Pleats Be With You closed-toe pumps are accented with a pleat and buckle detail over the toe. A soft rounded toe and a small heel complete these slip-on pumps. The memory foam footbed on the interior provides the cushioned comfort you need for long days on your feet."
+    },
+    {
+      "id": 49,
+      "title": "NMD_R1 Flash Red",
+      "brand": "ADIDAS",
+      "category": "WOMEN",
+      "sub_category": "CASUAL",
+      "price": 140,
+      "is_in_inventory": true,
+      "stock": 5,
+      "imageURL": "https://assets.adidas.com/images/h_320,f_auto,q_auto:sensitive,fl_lossy/90f85768e3894aeaab67aba0014a3379_9366/NMD_R1_Shoes_Red_FY9389_01_standard.jpg",
+      "slug": "nmd_r1-flash-red",
+      "description": "Pretty in pleats! Our Pleats Be With You closed-toe pumps are accented with a pleat and buckle detail over the toe. A soft rounded toe and a small heel complete these slip-on pumps. The memory foam footbed on the interior provides the cushioned comfort you need for long days on your feet."
+    },
+    {
+      "id": 50,
+      "title": "Superstar",
+      "brand": "ADIDAS",
+      "category": "WOMEN",
+      "sub_category": "CASUAL",
+      "price": 90,
+      "is_in_inventory": true,
+      "stock": 3,
+      "imageURL": "https://assets.adidas.com/images/h_320,f_auto,q_auto:sensitive,fl_lossy/12365dbc7c424288b7cdab4900dc7099_9366/Superstar_Shoes_White_FW3553_FW3553_01_standard.jpg",
+      "slug": "superstar",
+      "description": "Pretty in pleats! Our Pleats Be With You closed-toe pumps are accented with a pleat and buckle detail over the toe. A soft rounded toe and a small heel complete these slip-on pumps. The memory foam footbed on the interior provides the cushioned comfort you need for long days on your feet."
+    },
+    {
+      "id": 41,
+      "title": "Club C Revenge Mens",
+      "brand": "Reebok",
+      "category": "MEN",
+      "sub_category": "CASUAL",
+      "price": 70,
+      "is_in_inventory": true,
+      "stock": 3,
+      "imageURL": "https://assets.reebok.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy/7599294868804d78a1b1ab6f01718a5e_9366/Club_C_Revenge_Men's_Shoes_White_FV9877_01_standard.jpg",
+      "slug": "club-c-revenge-mens",
+      "description": "Pretty in pleats! Our Pleats Be With You closed-toe pumps are accented with a pleat and buckle detail over the toe. A soft rounded toe and a small heel complete these slip-on pumps. The memory foam footbed on the interior provides the cushioned comfort you need for long days on your feet."
+    },
+    {
+      "id": 52,
+      "title": "SK80-Low",
+      "brand": "Vans",
+      "category": "MEN",
+      "sub_category": "CASUAL",
+      "price": 60,
+      "is_in_inventory": true,
+      "stock": 3,
+      "imageURL": "https://images.vans.com/is/image/Vans/UUK24I-HERO?$583x583$",
+      "slug": "sk80-low",
+      "description": "Pretty in pleats! Our Pleats Be With You closed-toe pumps are accented with a pleat and buckle detail over the toe. A soft rounded toe and a small heel complete these slip-on pumps. The memory foam footbed on the interior provides the cushioned comfort you need for long days on your feet."
+    },
+    {
+      "id": 53,
+      "title": "Michael Feburary SK8-Hi",
+      "brand": "Vans",
+      "category": "MEN",
+      "sub_category": "CASUAL",
+      "price": 72,
+      "is_in_inventory": true,
+      "stock": 3,
+      "imageURL": "https://images.vans.com/is/image/Vans/MV122M-HERO?$583x583$",
+      "slug": "michael-feburary-sk8-hi",
+      "description": "Pretty in pleats! Our Pleats Be With You closed-toe pumps are accented with a pleat and buckle detail over the toe. A soft rounded toe and a small heel complete these slip-on pumps. The memory foam footbed on the interior provides the cushioned comfort you need for long days on your feet."
+    }
+  ],
+
+  "jewelry": [
+    {
+      "id": 5,
+      "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+      "slug": "John-Hardy-Women's-Legends-Naga-Gold-&-Silver-Dragon-Station-Chain-Bracelet",
+      "price": 695,
+      "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+      "category": "jewelry",
+      "sub_category": "Bracelet",
+      "brand": "NAGA",
+      "stock": 7,
+      "is_in_inventory": false,
+      "imageURL": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Solid Gold Petite Micro Pave ",
+      "slug": "Solid-Gold-Petite-Micro-Pave ",
+      "price": 168,
+      "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+      "category": "jewelry",
+      "sub_category": "Bracelet",
+      "brand": "MICRO PAVE",
+      "stock": 6,
+      "is_in_inventory": false,
+      "imageURL": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg"
+    },
+    {
+      "id": 7,
+      "title": "White Gold Plated Princess",
+      "slug": "White-Gold-Plated-Princess",
+      "price": 9.99,
+      "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+      "category": "jewelry",
+      "sub_category": "Ring",
+      "brand": " MICRO PAVE",
+      "stock": 3,
+      "is_in_inventory": false,
+      "imageURL": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+      "slug": "Pierced-Owl-Rose-Gold-Plated-Stainless-Steel-Double",
+      "price": 10.99,
+      "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
+      "category": "jewelry",
+      "sub_category": "Earrings",
+      "brand": "NAGA",
+      "stock": 4,
+      "is_in_inventory": false,
+      "imageURL": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg"
+    }
+  ],
+
+  "guns": [
+    {
+      "id": 1,
+      "name": "GLOCK 17 Gen5",
+      "img": "https://raw.githubusercontent.com/mir-hussain/guns/main/guns/glock.png",
+      "bullet": "9mm",
+      "capacity": "17 + 1",
+      "action": "Semi-Automatic",
+      "price": "540",
+      "category": "Pistol"
+    },
+    {
+      "id": 2,
+      "name": "FN 509 Tactical",
+      "img": "https://raw.githubusercontent.com/mir-hussain/guns/main/guns/FN.png",
+      "bullet": "9mm",
+      "capacity": "10 + 1",
+      "action": "Semi-Automatic",
+      "price": "900",
+      "category": "Pistol"
+    },
+    {
+      "id": 3,
+      "name": "Kimber Custom 1911",
+      "img": "https://raw.githubusercontent.com/mir-hussain/guns/main/guns/ki%2Cber.png",
+      "bullet": "45 ACP",
+      "capacity": "7 + 1",
+      "action": "Semi-Automatic",
+      "price": "900",
+      "category": "Pistol"
+    },
+    {
+      "id": 4,
+      "name": "Beretta M9A4 RDO",
+      "img": "https://raw.githubusercontent.com/mir-hussain/guns/main/guns/beretta.png",
+      "bullet": "9mm",
+      "capacity": "18 + 1",
+      "action": "Semi-Automatic",
+      "price": "1000",
+      "category": "Pistol"
+    },
+    {
+      "id": 5,
+      "name": "Beretta A400 Xcel",
+      "img": "https://raw.githubusercontent.com/mir-hussain/guns/main/guns/beretta-shotgun.png",
+      "bullet": "12 Gauge",
+      "capacity": "3 + 1",
+      "action": "Semi-Automatic",
+      "price": "1720",
+      "category": "Shotgun"
+    },
+    {
+      "id": 6,
+      "name": "Benelli M1014",
+      "img": "https://raw.githubusercontent.com/mir-hussain/guns/main/guns/benalim4.png",
+      "bullet": "12 Gauge",
+      "capacity": "5 + 1",
+      "action": "Semi-Automatic",
+      "price": "1900",
+      "category": "Shotgun"
+    },
+    {
+      "id": 7,
+      "name": "Browning Citori 725",
+      "img": "https://raw.githubusercontent.com/mir-hussain/guns/main/guns/Browning.png",
+      "bullet": "12 Gauge",
+      "capacity": "2",
+      "action": "Double Shot",
+      "price": "5430",
+      "category": "Shotgun"
+    },
+    {
+      "id": 8,
+      "name": "Winchester SXP",
+      "img": "https://raw.githubusercontent.com/mir-hussain/guns/main/guns/winchester.png",
+      "bullet": "12 Gauge",
+      "capacity": "5 + 1",
+      "action": "Pump",
+      "price": "570",
+      "category": "Shotgun"
+    },
+    {
+      "id": 9,
+      "name": "Bergara B-14 HMR",
+      "img": "https://raw.githubusercontent.com/mir-hussain/guns/main/guns/bergara.png",
+      "bullet": "6.5 Creedmoor",
+      "capacity": "5",
+      "action": "Semi-Automatic",
+      "price": "970",
+      "category": "Rifle"
+    },
+    {
+      "id": 10,
+      "name": "Smith & Wesson M&P15",
+      "img": "https://raw.githubusercontent.com/mir-hussain/guns/main/guns/S%26WM%26P15.png",
+      "bullet": "5.56x45mm NATO",
+      "capacity": "30 + 1",
+      "action": "Semi-Automatic",
+      "price": "800",
+      "category": "Rifle"
+    },
+    {
+      "id": 11,
+      "name": "Ruger AR-556",
+      "img": "https://raw.githubusercontent.com/mir-hussain/guns/main/guns/RugerAR556.png",
+      "bullet": ".223 NATO",
+      "capacity": "30+1",
+      "action": "Semi-Automatic",
+      "price": "750",
+      "category": "Rifle"
+    },
+    {
+      "id": 12,
+      "name": "Ruger AR-556 MPR",
+      "img": "https://raw.githubusercontent.com/mir-hussain/guns/main/guns/RugerAR556RMP.png",
+      "bullet": ".223 NATO",
+      "capacity": "30 + 1",
+      "action": "Semi-Automatic",
+      "price": "880",
+      "category": "Rifle"
+    },
+    {
+      "id": 13,
+      "name": "Savage 110 Elite",
+      "img": "https://raw.githubusercontent.com/mir-hussain/guns/main/guns/savage110.png",
+      "bullet": ".300 Winchester Magnum",
+      "capacity": "5",
+      "action": "Bolt",
+      "price": "1870",
+      "category": "Rifle"
+    }
+  ]
+}
